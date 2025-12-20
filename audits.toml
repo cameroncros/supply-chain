@@ -1,0 +1,7 @@
+
+[[audits.inout]]
+who = "Cameron Cross <cameroncros@gmail.com>"
+criteria = "safe-to-deploy"
+version = "0.1.4"
+notes = "Diff to previous version is innocuous"
+aggregated-from = "https://raw.githubusercontent.com/cameroncros/discordshim_rs/refs/heads/vetting/supply-chain/audits.toml"
